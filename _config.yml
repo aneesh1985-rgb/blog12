@@ -29,13 +29,13 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /
+    url: /blog12
   - text: About
-    url: /about/
+    url: /blog12/about/
   - text: Style Guide
-    url: /style-guide/
+    url: /blog12/style-guide/
   - text: Tags
-    url: /tags/
+    url: /blog12/tags/
   - text: Download
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
