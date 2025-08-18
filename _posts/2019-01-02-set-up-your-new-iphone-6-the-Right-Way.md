@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WHY CHOOSE SKYNEt?"
-description: "The iPhone 6 and Phone 6 Plus are smartphones designed and marketed by Apple Inc."
+description: "Most Feature Rich Reseller Plans in the World, Guaranteed!."
 date: 2019-01-02
 feature_image: images/iphone-6.jpg
 tags: [tips, design]
