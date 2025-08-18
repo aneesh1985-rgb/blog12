@@ -5,14 +5,7 @@ description: An optional about page for Scriptor Jekyll theme
 feature_image: images/about.jpg
 ---
 
-At SkyNetHosting.net, our customers are at the heart of everything we do. Over the years, thousands of individuals, developers, and businesses have trusted us to power their websites and reseller platforms. Here’s what they often highlight about our services:
+Formed in 2004, SkyNetHosting.Net Inc has set the standard for high-performance Web hosting services. We are dedicated to provide the best web hosting services in the industry. SkyNetHosting.Net is a debt-free and profitable privately held corporation licensed in the State of Delaware, USA.
 
-Reliable & Stable Hosting – Many long-term clients praise our excellent uptime and server performance, ensuring their websites stay online around the clock.
+Our roots go back over a decade in the reseller hosting industry. We enable individuals and businesses to acquire and create their web hosting companies, unique identities and brands on the internet with our industry leading reseller hosting plans. Our mission is to give our valued customers outstanding support and reliable reseller hosting with many features at an affordable price. SkyNetHosting.Net Inc. offers a wide selection of reseller plans for every budget including Budget plans to our high performance VIP or Corporate VIP reseller plans.We want to make you a promise that we will always deliver quality reseller web hosting service, excellent friendly support and treat you like family.
 
-Responsive Support – Customers frequently commend our technical support team for being quick, knowledgeable, and always ready to help.
-
-Great Value – With competitive pricing and feature-rich plans, users find our services to be both cost-effective and powerful.
-
-Smooth Migrations – Businesses have shared positive experiences with account transfers and migrations, appreciating the minimal downtime and professional handling.
-
-Of course, we listen carefully to all feedback — both positive and critical — and continuously improve our infrastructure and services to meet evolving customer needs. Our mission remains the same: to provide fast, reliable, and affordable hosting backed by excellent support.
