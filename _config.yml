@@ -12,7 +12,7 @@ lang: en-US
 title: "Skynet Hosting"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "The world of hosting"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: "/blog12"
@@ -47,7 +47,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; © 2004-2023. SkyNetHosting.Net Inc. All rights reserved."
   has_social: true
 
 # Plugins
